@@ -1,10 +1,10 @@
 # Image-Combinator
 Combine images batches together and save them as .gif or .wav file.
 
-# requirements
-## interpreter
+# Requirements
+## Interpreter
 python >= 3.8
-## python_packages
+## Python packages
 - matplotlib >= 3.7.2
 - Pillow >= 10.0.0
 - numpy >= 1.24.4
